@@ -1,0 +1,9 @@
+<Anamnese>
+Rotina
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

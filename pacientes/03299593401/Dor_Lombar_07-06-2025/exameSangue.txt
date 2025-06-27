@@ -1,0 +1,5 @@
+<Resultados>
+Hemograma completo: normal
+Glicemia: 90 mg/dL
+Ferritina: 150 ng/mL
+<FimResultados>

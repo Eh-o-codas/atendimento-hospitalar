@@ -1,0 +1,9 @@
+<Anamnese>
+Asma
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

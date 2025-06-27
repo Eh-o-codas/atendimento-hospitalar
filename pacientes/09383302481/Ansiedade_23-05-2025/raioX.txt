@@ -1,0 +1,3 @@
+<Resultados>
+Radiografia de torax sem alteracoes parenquimatosas.
+<FimResultados>

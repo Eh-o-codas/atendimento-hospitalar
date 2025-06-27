@@ -1,0 +1,9 @@
+<Anamnese>
+Dor Lombar
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>
