@@ -1,0 +1,9 @@
+<Anamnese>
+Febre
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

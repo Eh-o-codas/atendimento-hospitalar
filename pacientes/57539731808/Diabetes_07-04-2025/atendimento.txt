@@ -1,0 +1,9 @@
+<Anamnese>
+Diabetes
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>
