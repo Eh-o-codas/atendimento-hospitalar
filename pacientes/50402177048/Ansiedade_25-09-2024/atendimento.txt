@@ -1,0 +1,9 @@
+<Anamnese>
+Ansiedade
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>
