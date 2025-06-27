@@ -1,0 +1,9 @@
+<Anamnese>
+Checkup
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

@@ -1,0 +1,9 @@
+<Anamnese>
+Cefaleia
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

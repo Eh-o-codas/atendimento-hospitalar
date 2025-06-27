@@ -1,0 +1,9 @@
+<Anamnese>
+Hipertensao
+</Anamnese>
+<Alertas>
+
+</Alertas>
+<Resultados>
+
+<FimResultados>

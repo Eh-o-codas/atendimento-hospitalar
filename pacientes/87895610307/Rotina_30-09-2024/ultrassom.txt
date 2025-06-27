@@ -1,0 +1,3 @@
+<Resultados>
+Ultrassonografia abdominal sem alteracoes.
+<FimResultados>
