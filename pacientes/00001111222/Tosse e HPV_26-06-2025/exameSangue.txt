@@ -1,0 +1,10 @@
+Dados do Paciente: Joao
+Data: 2025-06-27
+
+<Resultados>
+Hemograma completo: normal
+PCR: 0,4 mg/dL
+Raio-X torax: sem infiltrados
+<FimResultados>
+
+Laudo: testar COVID se persistir febre
